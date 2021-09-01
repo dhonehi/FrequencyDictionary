@@ -1,0 +1,11 @@
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\bin\Debug\FrequencyDictionary.exe
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\bin\Debug\FrequencyDictionary.pdb
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\obj\Debug\TestProject1.csprojAssemblyReference.cache
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\TestProject1\obj\Debug\TestProject1.pdb

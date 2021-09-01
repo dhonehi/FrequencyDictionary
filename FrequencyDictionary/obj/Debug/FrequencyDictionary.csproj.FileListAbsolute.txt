@@ -1,0 +1,6 @@
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\FrequencyDictionary\bin\Debug\FrequencyDictionary.exe
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\FrequencyDictionary\bin\Debug\FrequencyDictionary.pdb
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.csprojAssemblyReference.cache
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.exe
+C:\Users\Сергей Коротеев\RiderProjects\FrequencyDictionary\FrequencyDictionary\obj\Debug\FrequencyDictionary.pdb
